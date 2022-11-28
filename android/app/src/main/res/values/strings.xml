@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">pushAppAlan</string>
+    <string name="title_activity_main">pushAppAlan</string>
+    <string name="package_name">io.ionic.PushID</string>
+    <string name="custom_url_scheme">io.ionic.PushID</string>
+</resources>
